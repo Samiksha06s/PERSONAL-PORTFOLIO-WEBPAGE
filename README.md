@@ -23,3 +23,11 @@ Interactive elements showcasing my coding abilities.
 
 **Visit my portfolio to learn more about my work!**
 
+**OUTPUT:**
+
+![Image](https://github.com/user-attachments/assets/da06bf61-27ad-486b-a90b-3d3546cfdf69)
+
+
+
+
+
